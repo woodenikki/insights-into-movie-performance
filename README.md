@@ -21,7 +21,7 @@ The analysis focused on the following key areas:
 - Since we are aiming for high ratings, we found that the sweet spot for Production Budgets is around $16-17 Million
 
 ### Audience Engagement
-- Runtime 
+- Runtime falloff can hurt your reviews!
 
 ### Genre and Rating Preferences
 - The data showed that genres with broad appeal, such as Adventure, Action, and Comedy, tend to be among the most popular and well-received by audiences. We also found that R-rated movies tend to have the highest review ratings.
