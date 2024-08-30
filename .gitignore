@@ -1,2 +1,5 @@
 # Ignore temp directory 
 temp/
+
+.ipynb_checkpoints/
+
