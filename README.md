@@ -4,7 +4,6 @@
 
 This project aims to analyze a dataset of movies to uncover insights and patterns that can inform decision-making for movie studios and production companies. By leveraging data science techniques, we explored various aspects of movie success, including budget allocation, audience engagement, and genre preferences.
 
-
 ## Data Analysis
 
 The analysis focused on the following key areas:
